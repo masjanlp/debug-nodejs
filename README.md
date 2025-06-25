@@ -1,4 +1,5 @@
 # debug-nodejs
+Debugging NodeJs
 
 Script ini menggunakan shell_exec() untuk menjalankan perintah terminal dari PHP.
 Informasi yang ditampilkan:
